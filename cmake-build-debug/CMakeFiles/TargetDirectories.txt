@@ -1,0 +1,3 @@
+D:/Progect/Memory_write/cmake-build-debug/CMakeFiles/Memory_write.dir
+D:/Progect/Memory_write/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Progect/Memory_write/cmake-build-debug/CMakeFiles/rebuild_cache.dir

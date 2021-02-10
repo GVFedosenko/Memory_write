@@ -1,0 +1,3 @@
+C:\Users\Kenton\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Memory_write.dir/objects.a
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\ar.exe cr CMakeFiles\Memory_write.dir/objects.a @CMakeFiles\Memory_write.dir\objects1.rsp
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Memory_write.dir/objects.a -Wl,--no-whole-archive  -o Memory_write.exe -Wl,--out-implib,libMemory_write.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Memory_write.dir\linklibs.rsp
