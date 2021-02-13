@@ -83,6 +83,12 @@
 		<Unit filename="D:/Progect/Memory_write/Carrier.h">
 			<Option target="Memory_write"/>
 		</Unit>
+		<Unit filename="D:/Progect/Memory_write/Mechanical_recording.h">
+			<Option target="Memory_write"/>
+		</Unit>
+		<Unit filename="D:/Progect/Memory_write/flash_recording.h">
+			<Option target="Memory_write"/>
+		</Unit>
 		<Unit filename="D:/Progect/Memory_write/main.cpp">
 			<Option target="Memory_write"/>
 		</Unit>
